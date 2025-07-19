@@ -5,7 +5,7 @@ An interactive machine learning web application built with Streamlit that predic
 - Predict car prices using a trained Random Forest Regressor model
 - Real-time interactive interface using streamlit
 - Outlier detection included in preprocessing
-- Uses joblib to lodd the best-preforming saved model
+- Uses joblib to load the best-performing saved model
 
 ## Tech Stack
 - Python
